@@ -1,0 +1,6 @@
+D:\TestProject\LibraryMgmnt\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+D:\TestProject\LibraryMgmnt\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+D:\TestProject\LibraryMgmnt\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+D:\TestProject\LibraryMgmnt\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+D:\TestProject\LibraryMgmnt\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+D:\TestProject\LibraryMgmnt\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
